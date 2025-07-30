@@ -20,7 +20,6 @@ Este projeto é um **Simulador de Clima** que utiliza a API do [OpenWeather](htt
 - [pandas](https://pypi.org/project/pandas/)
 - [matplotlib](https://pypi.org/project/matplotlib/)
 - [numpy](https://pypi.org/project/numpy/)
-- Chave de API do OpenWeather (crie gratuitamente em [openweathermap.org](https://home.openweathermap.org/users/sign_up))
 
 ## Instalação
 
